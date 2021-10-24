@@ -1,0 +1,49 @@
+.top-container
+{
+    background-color: #D1E8E4;
+    padding:20px;
+    border: 10px solid black;
+}
+.middle-container
+{
+    background-color: red;
+    margin-left: 260px;
+    border: 20px solid black;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container
+{
+    background-color: blue;
+    margin-left: 500px;
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+}
+body{
+    margin: 0;
+    padding-left: 0px;
+    text-align: center;
+}
+h1{
+    margin: 0px;
+    color: #66BFBF;
+    padding-left: 0px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+}
+.top-cloud
+{
+    position: relative;
+    left: 200px;
+}
+p
+{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+.bottom-cloud
+{
+    position: absolute;
+}
